@@ -1,0 +1,6 @@
+# Logfile created on 2014-01-15 22:35:44 +0100 by logger.rb/41954
+I, [2014-01-15T22:35:44.130586 #51631]  INFO -- : 0:  rack (1.5.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-01-15T22:35:45.509619 #51631]  INFO -- : 0:  rack-protection (1.5.2) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-15T22:35:45.510108 #51631]  INFO -- : 0:  tilt (1.4.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-01-15T22:35:45.510412 #51631]  INFO -- : 0:  sinatra (1.4.4) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-15T22:35:45.510686 #51631]  INFO -- : 0:  bundler (1.5.1) from /Users/yvery/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
